@@ -57,7 +57,8 @@ illegal move. logic less game play
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://github.com/Aaronjac17/Reverse-Chess/blob/main/WhatsApp%20Video%202025-08-02%20at%2007.28.09_5db6e6b7.mp4]
+
 You start by clicking on any chess piece on the board — it gets selected.
 Next, you click on the square where you want it to go.
 But surprise! The piece ignores you and moves in the opposite direction instead.
