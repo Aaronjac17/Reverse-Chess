@@ -1,39 +1,37 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Opposite Chess] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Matrix]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Aaron Jacob] - [MBCCET College]
+- Member 1: [Amal Baiju] - [MBCCET College]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+[Opposite Chess: The Disobedient Edition is a twisted version of classic chess where every move you make happens in the exact opposite direction. Strategy is useless, logic is defied, and your own pieces betray you at every turn. It's the perfect game for those who enjoy chaos, confusion, and a healthy dose of absurdity.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[In traditional chess, players rely on logic, strategy, and precise movement to outsmart their opponents. But what if the real problem… is that it all works too well? Opposite Chess solves this non-existent problem by removing everything that makes chess sensible—replacing strategy with sabotage, and obedience with rebellion. It's a solution to a problem no one asked to fix… and that’s exactly the point.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[Introducing Opposite Chess — the brilliantly useless answer to a perfectly functional game. It flips every move you make, mocks your intentions, and turns your carefully planned tactics into chaotic backfires. No improvements, no enhancements — just pure, unfiltered nonsense. It’s the solution to nothing, designed for no one… and it works perfectly at being absolutely pointless.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Python]
+- [Tkinter]
+- [Basic Game Logic]
+- 
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [No hardware components]
 
 ### Implementation
 For Software:
