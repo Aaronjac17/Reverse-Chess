@@ -45,8 +45,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot 2025-08-02 063249.png](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 1](https://github.com/Aaronjac17/Reverse-Chess/blob/main/Screenshot%202025-08-02%20063249.png)
+This is the gme interface.
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
