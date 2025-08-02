@@ -28,18 +28,17 @@ For Software:
 - [Python]
 - [Tkinter]
 - [Basic Game Logic]
-- 
+  
 
-For Hardware:
-- [No hardware components]
+
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[tkinter comes pre-installed with standard Python distributions.]
 
 # Run
-[commands]
+[opposite_chess.py]
 
 ### Project Documentation
 For Software:
@@ -51,44 +50,24 @@ This is the gme interface.
 ![Screenshot2](https://github.com/Aaronjac17/Reverse-Chess/blob/main/Screenshot%202025-08-02%20065049.png)
 Playing the game
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](https://github.com/Aaronjac17/Reverse-Chess/blob/main/Screenshot%202025-08-02%20065742.png)
+illegal move. logic less game play 
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+You start by clicking on any chess piece on the board — it gets selected.
+Next, you click on the square where you want it to go.
+But surprise! The piece ignores you and moves in the opposite direction instead.
+If the opposite square is valid and empty, the move goes through.
+If not, nothing happens and the piece just sits there, refusing your command.
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Aaro Jacob]: [Develped the game idea and the game.]
+- [Amal Baiju]: [Helped along the way.]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
@@ -97,4 +76,4 @@ Made with ❤️ at TinkerHub Useless Projects
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
 
 
-# Reverse-Chess
+# Opposite Chess
