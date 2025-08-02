@@ -48,8 +48,8 @@ For Software:
 ![Screenshot 1](https://github.com/Aaronjac17/Reverse-Chess/blob/main/Screenshot%202025-08-02%20063249.png)
 This is the gme interface.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](https://github.com/Aaronjac17/Reverse-Chess/blob/main/Screenshot%202025-08-02%20065049.png)
+Playing the game
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
