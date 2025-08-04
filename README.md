@@ -61,7 +61,7 @@ illegal move. logic less game play
 
 ### Project explanation
 # Video
-[]
+[https://github.com/Aaronjac17/Reverse-Chess/blob/main/Screen%20Recording%202025-08-04%20232733.mp4]
 
 You start by clicking on any chess piece on the board — it gets selected.
 Next, you click on the square where you want it to go.
